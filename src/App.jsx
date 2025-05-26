@@ -88,7 +88,7 @@ function App() {
       <div className="agent-content">
         <div className="agent-image-container">
           <img
-            src="https://imgcdn.stablediffusionweb.com/2024/11/23/d292ffa6-5549-4656-90ec-229d0e271a08.jpg"
+            src="/images/aleena_img.jpeg"
             alt="Alena AI Agent"
             className="agent-image"
           />
@@ -97,7 +97,7 @@ function App() {
           </div>
         </div>
 
-        <h2 className="agent-name">Alena</h2>
+        <h2 className="agent-name">Aleena</h2>
         <p className="agent-title">Your AI Voice Assistant</p>
 
         <div className="status">
