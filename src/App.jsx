@@ -88,7 +88,7 @@ function App() {
       <div className="agent-content">
         <div className="agent-image-container">
           <img
-            src="https://t4.ftcdn.net/jpg/08/31/29/53/360_F_831295347_sP2KMjJnJLUH5JS13mHt7JkfkYCnr7Iz.jpg"
+            src="https://imgcdn.stablediffusionweb.com/2024/11/23/d292ffa6-5549-4656-90ec-229d0e271a08.jpg"
             alt="Alena AI Agent"
             className="agent-image"
           />
