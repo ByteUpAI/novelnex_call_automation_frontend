@@ -26,7 +26,7 @@ function App() {
     setStatusText("Requesting access token...");
 
     try {
-      const response = await fetch("https://nxsolutions.app.n8n.cloud/webhook/api/create-web-call/", {
+      const response = await fetch("https://nxsolutions.app.n8n.cloud/webhook/api/create-web-call1/", {
         method: "POST",
       });
       const data = await response.json();
@@ -81,7 +81,7 @@ function App() {
   return (
     <div className="agent-card">
       <div className="company-header">
-        <div className="company-name">Novel Nex Solutions</div>
+        <div className="company-name">Google</div>
         <div className="company-tagline">AI Voice Agent Platform</div>
       </div>
 
