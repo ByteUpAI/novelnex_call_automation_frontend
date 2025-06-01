@@ -81,7 +81,7 @@ function App() {
   return (
     <div className="agent-card">
       <div className="company-header">
-        <div className="company-name">NOVEL NEX SOLUTIONS</div>
+        <div className="company-name">AI Bot Testing Beta</div>
         <div className="company-tagline">AI Voice Agent Platform</div>
       </div>
 
