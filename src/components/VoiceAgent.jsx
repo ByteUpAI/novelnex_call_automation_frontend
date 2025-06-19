@@ -94,7 +94,7 @@ function VoiceAgent({ onNavigateToChat }) {
       <div className="agent-content">
         <div className="agent-image-container">
           <img
-            src="/images/aleena_img.jpeg"
+            src="/images/aleena_img1.jpg"
             alt="Alena AI Agent"
             className="agent-image"
           />

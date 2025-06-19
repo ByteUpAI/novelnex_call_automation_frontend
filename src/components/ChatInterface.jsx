@@ -242,7 +242,7 @@ function ChatInterface({ onNavigateToHome }) {
         </button>
         <div className="chat-header-info">
           <div className="agent-avatar">
-            <img src="/images/aleena_img.jpeg" alt="Aleena" />
+            <img src="/images/aleena_img1.jpg" alt="Aleena" />
             <div className="status-dot"></div>
           </div>
           <div className="agent-info">
